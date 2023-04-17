@@ -2,7 +2,7 @@
 
 This repository contains the code for building a regression tree model to set base prices for performances at a performing arts center. The dataset consists of 10 years of historical ticketing data that includes variables such as paid amount, performance date, seating type, section, row, subscription information, and performance name. The model uses the scikit-learn library in Python to perform cross-validation and hyperparameter tuning using grid search and pruning.
 
-Installation
+**Installation**
 
 To run the code in this repository, you will need to have Python 3 installed on your computer.
 
@@ -21,6 +21,6 @@ Exports the pruned decision tree as a PNG image and displays it in the notebook.
 You can modify the hyperparameters in the code to improve the performance of the model.
 
 
-Acknowledgements
+**Acknowledgements**
 
 The data used in this analysis was provided by a performing arts center as part of the author's MSBA practicum at UC Davis. The code for building the regression tree model was adapted from the scikit-learn documentation.

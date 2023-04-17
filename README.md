@@ -20,9 +20,6 @@ Prunes the decision tree.
 Exports the pruned decision tree as a PNG image and displays it in the notebook.
 You can modify the hyperparameters in the code to improve the performance of the model.
 
-License
-
-This repository is licensed under the MIT License. Please see the LICENSE file for more details.
 
 Acknowledgements
 
